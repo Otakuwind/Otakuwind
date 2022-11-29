@@ -1,5 +1,5 @@
 Hi there 👋 my name is Wind
 I am on a journey.
-I’m currently working on 4 HTML projects
-- 🌱 I’m currently learning Css, Javascript
+- 🌱 I’m currently learning Css.
 Interested in becoming a web3/blockchain dev.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Otakuwind)](https://git.io/streak-stats)
